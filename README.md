@@ -1,4 +1,6 @@
 # Gesture-Control-ESP32-S3-WROOM-CAM-Module-
+<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/99bb0d84-cf0e-4479-9551-f8f7f7c4cced" />
+
 This project uses ESP32-S3 camera to detect  hand gestures using MediaPipe and controls  a robot car via WiFi. 1 finger = Forward,  2 fingers = Backward, 3 = Left, 4 = Right.
 
 **ESP32-S3 Gesture Control System**
@@ -110,6 +112,7 @@ http://localhost:5000
 3. MediaPipe detects 21 hand landmarks
 4. Finger count mapped to direction command
 5. Flask serves web dashboard with live results
+![STOP Image 2026-03-21 at 4 46 27 PM](https://github.com/user-attachments/assets/3c3fbdd8-e097-488f-becb-3e18d343dfcc)
 
 
 
