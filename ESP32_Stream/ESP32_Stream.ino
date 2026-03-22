@@ -1,3 +1,15 @@
+
+ * ============================================================
+ *  Project   : ESP32-S3 Gesture Control System
+ *  Author    : Raunak Choudhary
+ *  Version   : 1.0.0
+ *  Date      : March 2026
+ * ------------------------------------------------------------
+ *  License   : MIT License
+ *  Copyright (c) 2026 Raunak Choudhary / Roubotix
+ * ------------------------------------------------------------
+ *  GitHub    : github.com/Roubotix
+ * ============================================================
 #include "esp_camera.h"
 
 #define CAMERA_MODEL_ESP32S3_EYE
