@@ -104,6 +104,7 @@ python gesture_server.py
 ```
 http://localhost:5000
 ```
+<img width="1876" height="947" alt="Windowpowershell" src="https://github.com/user-attachments/assets/c17df961-a1f5-47a2-9829-fe65a0991b94" />
 
 **How It Works**
 
@@ -112,7 +113,15 @@ http://localhost:5000
 3. MediaPipe detects 21 hand landmarks
 4. Finger count mapped to direction command
 5. Flask serves web dashboard with live results
-![STOP Image 2026-03-21 at 4 46 27 PM](https://github.com/user-attachments/assets/3c3fbdd8-e097-488f-becb-3e18d343dfcc)
+
+**Live Stream with Landmarks:**
+![forward Image 2026-03-21 at 4 44 11 PM](https://github.com/user-attachments/assets/193a0a2c-21ea-49d5-b1a1-4a9773985705)  
+![Backward Image 2026-03-21 at 4 44 49 PM](https://github.com/user-attachments/assets/1d1939dd-679a-4a65-bdac-38ff4d5693e6)
+![RIGHT Image 2026-03-21 at 4 45 53 PM](https://github.com/user-attachments/assets/b0a4a777-f5f9-4765-af5a-acbe68a78fd9)
+![LEFT Image 2026-03-21 at 4 45 18 PM](https://github.com/user-attachments/assets/de55aae4-1ae8-4584-8616-bb1276c2f9c2)
+![RIGHT Image 2026-03-21 at 4 45 53 PM](https://github.com/user-attachments/assets/3eeb0b82-cb93-4ca3-8516-caccdd067fe6)
+![STOP Image 2026-03-21 at 4 46 27 PM](https://github.com/user-attachments/assets/b487ba94-b2f5-4364-b77a-3c3737c03e3a)
+
 
 
 
